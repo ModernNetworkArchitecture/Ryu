@@ -13,3 +13,8 @@ sudo python3 topology.py
 4. Coba:
 resellerjakarta ping batikjogja   # Akan gagal
 resellerjakarta ping cloud        # Akan berhasil
+
+✅ Fitur Tambahan Yang Bisa Ditambahkan (opsional):
+- Logging ke file audit
+- Bypass dengan role tertentu (jika nanti diintegrasikan ke ZTNA)
+- Dynamic ACL via REST API
